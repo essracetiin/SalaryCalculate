@@ -1,0 +1,8 @@
+D:\I KNOW\TUGAY\SALARY\Salary\Salary\obj\Debug\Salary.csproj.AssemblyReference.cache
+D:\I KNOW\TUGAY\SALARY\Salary\Salary\obj\Debug\Salary.csproj.SuggestedBindingRedirects.cache
+D:\I KNOW\TUGAY\SALARY\Salary\Salary\obj\Debug\Salary.csproj.CoreCompileInputs.cache
+D:\I KNOW\TUGAY\SALARY\Salary\Salary\bin\Debug\Salary.exe.config
+D:\I KNOW\TUGAY\SALARY\Salary\Salary\bin\Debug\Salary.exe
+D:\I KNOW\TUGAY\SALARY\Salary\Salary\bin\Debug\Salary.pdb
+D:\I KNOW\TUGAY\SALARY\Salary\Salary\obj\Debug\Salary.exe
+D:\I KNOW\TUGAY\SALARY\Salary\Salary\obj\Debug\Salary.pdb
